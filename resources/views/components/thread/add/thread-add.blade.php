@@ -1,0 +1,2 @@
+
+@include('partials.thread.thread-add', ['editor_height'=>140])
